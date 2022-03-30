@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/lisaSupportchat",
-    "repository": "https://github.com/Rishabhbhan5/video-Bot",
+    "repository": "https://github.com/Ritikkashyap8/video-Bot",
     "success_url": "https://t.me/Rishu_05",
     "env": {
         "API_ID": {
