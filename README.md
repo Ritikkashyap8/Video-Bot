@@ -3,7 +3,7 @@
 <p align="center"><b> Video Bot is a Music powerfull bot for playing music (Video or Audio) on telegram voice chat groups. </b></p>
 
 
-<p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://te.legra.ph/file/bb57ccbd4be51218fccb6.jpg"></a></p>
+<p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://telegra.ph/file/78ca317e36174299959c9.jpg"></a></p>
 <p align="center">
     <br><b>Video Bot is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
